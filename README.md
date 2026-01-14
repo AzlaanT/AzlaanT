@@ -1,36 +1,29 @@
+# Hi, I'm Azlaan! 👋 
 
-# 👋 Assalam o Alaikum, I'm Azlaan Tauheed
+### 🚀 1st Semester CS Student @ DSU | AI Builder | Pre-Med to Tech Pivot
 
-I’m a passionate student from Pakistan 🇵🇰 learning Python, Web Development, and AI through Harvard's CS50 and other hands-on projects.
-
-🎓 Currently enrolled in **BS Artificial Intelligence (BSAI)**, learning ahead of the curve, aiming to join the tech industry soon. I'm eager to grow, build, and collaborate!
-
----
-
-## 💼 Projects
-
-### 🔹 Python / AI
-> Coming soon: AI chatbot, CS50 Python final project, Excel-integrated assistant, and much more
-
-### 🔹 Web Development
-> Coming soon: Personal portfolio website in HTML, CSS, and JavaScript
+I'm a developer who doesn't wait for the syllabus to catch up. I really like building stuff and spend most of time making or learning stuff. To me making is greater then using i have made many projects and am currently building more. I’m currently focused on integrating **Generative AI** into functional **SaaS products** and exploring the future of human-computer interaction. Want real world experience and would love to work.
 
 ---
 
-## 🎓 Certificates
-- ✔ HP Basic AI for Beginners
-- 🛠️ Harvard CS50P (in progress)
-- 🛠️ Harvard CS50AI (in progress)
+### 🛠️ What I'm Cooking
+* **AI Inventory Manager:** A smart database tool using **Gemini API** for automated inventory logic.
+* **Voice-Enabled Chatbot:** A multi-modal prototype linking **ElevenLabs** voice synthesis with Google's LLM APIs.
+* **Web Dev Journey:** Currently mastering **Html**, **CSS** and **JavaScript** to take my SaaS ideas to the web.
 
-👉 _More certificates will be added soon_
+### 💻 Tech Stack
+* **Languages:** Python, C, HTML, CSS (Learning JS/Next.js)
+* **AI/ML APIs:** Google Gemini, ElevenLabs Voice AI, Google Search/Chat APIs
+* **Tools:** VS Code, Git, GitHub
+
+### 📈 Current Stats
+* 🎓 **Education:** BS Computer Science @ DHA Suffa University
+* 📜 **Certifications:** HP Foundation - Basic Artificial Intelligence
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: tauheed.azlan@gmail.com
-- 🧠 GitHub: [github.com/AzlaanT](https://github.com/AzlaanT)
-- 😄 Pronouns: He/Him
-- 🌱 Currently learning: Full Stack Web Dev + AI
-- ⚡ Fun fact: I’ve already made AI tools for small businesses — now I’m focusing on building full systems **without outside help**
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/azlaan-tauheed-b6855637b](https://www.linkedin.com/in/azlaan-tauheed-b6855637b)
+* **Email:** tauheed.azlan@gmail.com
 
-- 
+*"The best way to predict the future is to build it."*
